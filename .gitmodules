@@ -1,0 +1,27 @@
+[submodule "chris"]
+	path = chris
+	url = ./chris/
+[submodule "aaron_pujanandez"]
+	path = aaron_pujanandez
+	url = ./aaron_pujanandez/
+[submodule "caitlin"]
+	path = caitlin
+	url = ./caitlin/
+[submodule "phai"]
+	path = phai
+	url = ./phai/
+[submodule "rachel"]
+	path = rachel
+	url = ./rachel/
+[submodule "scott"]
+	path = scott
+	url = ./scott/
+[submodule "solutions"]
+	path = solutions
+	url = ./solutions/
+[submodule "nathan"]
+	path = nathan
+	url = ./nathan/
+[submodule "steven"]
+	path = steven
+	url = ./steven
